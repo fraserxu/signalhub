@@ -1,0 +1,22 @@
+{
+  "name": "heroku-signalhub",
+  "version": "1.0.0",
+  "description": "A signalhub server hosted on heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraserxu/signalhub.git"
+  },
+  "author": "Fraser Xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraserxu/signalhub/issues"
+  },
+  "homepage": "https://github.com/fraserxu/signalhub#readme",
+  "dependencies": {
+    "signalhub": "^4.3.2"
+  }
+}
